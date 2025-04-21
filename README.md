@@ -4,7 +4,7 @@ A simple power supply monitoring tool.
 ### Script Purpose as a Tool:
 View all details of battery supply accessable from a menu or via tray menu. Easily view, monitor, export all details of the primary power supply of your system.
 
-
+![pSupply Screenshot](https://github.com/rweckert/pSupply/blob/488025edf09b585d66a2838440ebecb2124e341b/screenshot-pSupply.jpg)
 
 ### Setup:
 1) Save the pSupply.sh file to a directory. <br/>
@@ -108,10 +108,10 @@ Please feel free to email to submit bugs, changes or requests.
 
 ### Project Contents:
 **Project Page:** <br/>
-
+[https://github.com/rweckert/pSupply](https://github.com/rweckert/pSupply) <br/>
 **Source File:** <br/>
-
+[https://github.com/rweckert/pSupply/blob/488025edf09b585d66a2838440ebecb2124e341b/pSupply.sh](https://github.com/rweckert/pSupply/blob/488025edf09b585d66a2838440ebecb2124e341b/pSupply.sh) <br/>
 **Documentation File:** <br/>
-
+[https://github.com/rweckert/pSupply/blob/488025edf09b585d66a2838440ebecb2124e341b/README.md](https://github.com/rweckert/pSupply/blob/488025edf09b585d66a2838440ebecb2124e341b/README.md) <br/>
 **Project Screenshot:** <br/>
-
+[https://github.com/rweckert/pSupply/blob/488025edf09b585d66a2838440ebecb2124e341b/screenshot-pSupply.jpg](https://github.com/rweckert/pSupply/blob/488025edf09b585d66a2838440ebecb2124e341b/screenshot-pSupply.jpg) <br/>
