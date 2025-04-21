@@ -250,7 +250,7 @@ $fcall tBrowse
 
 # Main Help: ===========================
 function mHelp {
-yad --html --browser --css="$tp" --width=900 --height=500 --posx=20 --posy=115 --title="pSupply-Documentation" --name="mHelp" --window-icon="text-html" --uri="/home/rweckert/WinXBin/Source/pSupply/readme-pSupply.txt" --file-op
+yad --html --browser --css="$tp" --width=900 --height=500 --posx=20 --posy=115 --title="pSupply-Documentation" --name="mHelp" --window-icon="text-html" --uri="https://github.com/rweckert/pSupply/blob/488025edf09b585d66a2838440ebecb2124e341b/README.md" --file-op
 }
 $fcall mHelp
 
