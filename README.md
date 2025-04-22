@@ -72,15 +72,15 @@ The "Theme" main menu option allows the user to change settings for the theme be
 - Use the 'F1' key for documentation from any main window. <br/>
 
 ### pSupply Shortcut File:
-Save the following as a file named "pSupply.desktop" in creating a shortcut to this utility. Update the path for "Exec" to where the script is stored:
-[Desktop Entry]
-Name=pSupply
-GenericName=pSupply
-Comment=A simple power supply monitoring tool.
-Exec=/PathToScript/pSupply.sh
-Type=Application
-Icon=battery
-Terminal=false
+Save the following as a file named "pSupply.desktop" in creating a shortcut to this utility. Update the path for "Exec" to where the script is stored: <br/>
+[Desktop Entry] <br/>
+Name=pSupply <br/>
+GenericName=pSupply <br/>
+Comment=A simple power supply monitoring tool. <br/>
+Exec=/PathToScript/pSupply.sh <br/>
+Type=Application <br/>
+Icon=battery <br/>
+Terminal=false <br/>
 
 ### Common System Requirements:
 The following applications are in general use of most Linux systems and are used in having vAlias deliver output:
