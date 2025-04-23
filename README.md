@@ -7,8 +7,9 @@ View all details of battery supply accessable from a menu or via tray menu. Easi
 ![pSupply Screenshot](https://github.com/rweckert/pSupply/blob/488025edf09b585d66a2838440ebecb2124e341b/screenshot-pSupply.jpg)
 
 ### Setup:
-1) Save the pSupply.sh file to a directory. <br/>
-2) Make the pSupply.sh script executable by running the following command in the same directory as the pSupply.sh file:<br/>
+1. Please review "[Common System Requirements](https://github.com/rweckert/pSupply/blob/main/README.md#common-system-requirements)" and "[Critical System Requirements](https://github.com/rweckert/pSupply/blob/main/README.md#critical-system-requirements)" sections below for basic and critical requirements to run this script successfully. <br/>
+2. Save the pSupply.sh file to a directory. <br/>
+3. Make the pSupply.sh script executable by running the following command in the same directory as the pSupply.sh file: <br/>
 _chmod +x pSupply.sh_
 
 ### Features:
@@ -95,16 +96,16 @@ The following applications are in general use of most Linux systems and are used
 - xdg-open
 
 ### Critical System Requirements:
-The most important requirement is the yad (yet another dialog) application which allows for the use of custom dialog, menu, and window options.
+Packages listed below provide the core ingredients for graphic display and desired output that enables SCRIPTNAME deliver output and are critical for successful execution of the the script:
 
-- yad 14.0+ (GTK+ 3.24.41) [https://github.com/v1cont/yad](https://github.com/v1cont/yad)
+**- yad (Yet Another Dialog):** 14.0+ (GTK+ 3.24.41). A tool for developing graphical user interfaces in Linux and is used by this script to generate menus and dialog windows, is written by Victor Ananjevsky. Download: https://github.com/v1cont/yad Full setup instructions are available for either Linux or Microsoft Windows Subsystem for Linux (WSL) using a Debian base: https://github.com/rweckert/yad-14.0-Setup-From-Scratch
 
-The mRunner script uses features of yad that do require version 14.0+ and built with GTK+ 3.24.41 or higher. Full setup instructions are available for either Linux or Microsoft Windows Subsystem for Linux (WSL) using a Debian base: [https://github.com/rweckert/yad-14.0-Setup-From-Scratch](https://github.com/rweckert/yad-14.0-Setup-From-Scratch)
+**- upower:** client version (1.90.3). A simple command line client for the UPower daemon. Written by David Zeuthen davidz@redhat.com. More information regarding upower can be found at [https://manpages.ubuntu.com/manpages/jammy/man1/upower.1.html](https://manpages.ubuntu.com/manpages/jammy/man1/upower.1.html) and [https://www.cyberciti.biz/faq/linux-upower-command-examples-and-syntax/](https://www.cyberciti.biz/faq/linux-upower-command-examples-and-syntax/)
 
-YAD (Yet Another Dialog), a tool for developing graphical user interfaces in Linux, is written by Victor Ananjevsky.
+### Closing:
+Script interface written by: Robert W. Eckert - rweckert@gmail.com Please feel free to email to submit bugs, changes or requests. This script comes with absolutely no warranty. See the link for the GNU General Public License, version 3 or later listed below for further details.
 
-Script interface written by: Robert W. Eckert - rweckert@gmail.com
-Please feel free to email to submit bugs, changes or requests.
+---
 
 ### Project Contents:
 **Project Page:** <br/>
@@ -115,3 +116,8 @@ Please feel free to email to submit bugs, changes or requests.
 [https://github.com/rweckert/pSupply/blob/488025edf09b585d66a2838440ebecb2124e341b/README.md](https://github.com/rweckert/pSupply/blob/488025edf09b585d66a2838440ebecb2124e341b/README.md) <br/>
 **Project Screenshot:** <br/>
 [https://github.com/rweckert/pSupply/blob/488025edf09b585d66a2838440ebecb2124e341b/screenshot-pSupply.jpg](https://github.com/rweckert/pSupply/blob/488025edf09b585d66a2838440ebecb2124e341b/screenshot-pSupply.jpg) <br/>
+**Project Licensing:** <br/>
+
+
+**GitHub Profile Page:** <br/>
+[https://github.com/rweckert](https://github.com/rweckert)
