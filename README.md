@@ -1,4 +1,4 @@
-# pSupply
+# <img align="left" width="48" src="Icon-pSupply.png" /> pSupply
 A simple power supply monitoring tool.
 
 ### Script Purpose as a Tool:
