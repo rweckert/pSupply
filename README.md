@@ -1,5 +1,5 @@
 # <img align="left" width="48" src="Icon-pSupply.png" /> pSupply
-A simple power supply monitoring tool.
+A simple power supply monitoring tool for Linux.
 
 ### Script Purpose as a Tool:
 View all details of battery supply accessable from a menu or via tray menu. Easily view, monitor, export all details of the primary power supply of your system.
