@@ -117,7 +117,6 @@ Script interface written by: Robert W. Eckert - rweckert@gmail.com Please feel f
 **Project Screenshot:** <br/>
 [https://github.com/rweckert/pSupply/blob/488025edf09b585d66a2838440ebecb2124e341b/screenshot-pSupply.jpg](https://github.com/rweckert/pSupply/blob/488025edf09b585d66a2838440ebecb2124e341b/screenshot-pSupply.jpg) <br/>
 **Project Licensing:** <br/>
-
-
+[https://github.com/rweckert/pSupply/blob/36a0ec6f0e3e80f6ec3cd93ec809427dff97fff0/LICENSE](https://github.com/rweckert/pSupply/blob/36a0ec6f0e3e80f6ec3cd93ec809427dff97fff0/LICENSE) <br/>
 **GitHub Profile Page:** <br/>
 [https://github.com/rweckert](https://github.com/rweckert)
