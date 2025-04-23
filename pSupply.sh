@@ -7,7 +7,7 @@
 # |  |_) )        \  |  /  |_) )  |_) )  |_\___  |
 # |   __/_______  /____/|   __/|   __/|____/ ____|
 # |__|          \/      |__|   |__|        \/v:1.0
-# A simple power supply monitoring tool.
+# A simple power supply monitoring tool for Linux.
 
 hc=$'\u2010'
 fcall="export -f"
@@ -261,7 +261,7 @@ yad --about --css="$tp" \
 --image="text-x-script" \
 --authors="Robert W Eckert - rweckert@gmail.com" \
 --license="GPL3" \
---comments="A simple power supply monitoring tool." \
+--comments="A simple power supply monitoring tool for Linux." \
 --copyright="Updated 04/20/2025 by Robert W Eckert" \
 --pversion="Version: 1.0" \
 --pname="pSupply" \
