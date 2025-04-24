@@ -84,16 +84,7 @@ Icon=battery <br/>
 Terminal=false <br/>
 
 ### Common System Requirements:
-The following applications are in general use of most Linux systems and are used in having vAlias deliver output:
-- awk
-- kill
-- print
-- read
-- rm
-- sed
-- upower
-- wmctrl
-- xdg-open
+Common shell commands found in most Linux installations are used to provide system functionalilty for this and other scripts shared from this profile. For thoroughness, these common shell commands are listed in alphabetical order with version and man page link for review: 
 
 ### Critical System Requirements:
 Packages listed below provide the core ingredients for graphic display and desired output that enables SCRIPTNAME deliver output and are critical for successful execution of the the script:
